@@ -1,0 +1,46 @@
+.signin
+{
+    background-color: rgba(0,0,0,1);
+    
+    background-image: url('../media/general/sign.jpg');
+    background-size:cover;
+   position: relative;
+   height:750px;
+}
+.signup
+{
+    
+    background-image: url('../media/general/programming.jpg');
+    
+    background-size:cover;
+   position: relative;
+   height:750px;
+}
+.form_main
+{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 1050px;
+    height: 450px;
+}
+.form_main2
+{
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    width: 1050px;
+    height: 700px;
+}
+
+.sign__col1
+{
+    background-image: url('../media/general/courses2.png');
+    background-size: cover;
+}
+.sign__col1_2
+{
+    background-image: url('../media/general/courses3.png');
+    background-size: cover;
+    max-width: 100%;
+}
